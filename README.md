@@ -9,7 +9,7 @@ Op Sys Programming
 
 Assignment 2
 
-### `src/calc.c`
+## `src/calc.c`
 This program takes two integers and an operator. Based upon the operator 
 a calculation will be executed. Error handling is included. The program starts with error
 checking then if the program run correctly it uses switch statements to access
